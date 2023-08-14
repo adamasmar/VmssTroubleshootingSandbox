@@ -13,7 +13,7 @@ This project depends on the [.NET App Secrets](https://learn.microsoft.com/en-us
 {
   "SubscriptionId": {subscription id},
   "ResourceGroupName": {resource group name},
-  "VmssInstanceId": {vmss instance id (should only be the name part, e.g . vmssname_8digitGuid}",
+  "VmssInstanceId": {vmss instance id (should only be the name part, e.g . vmssname_8digitGuid},
   "AgentExtensionName": {agent name in namespace format}
 }
 ```
